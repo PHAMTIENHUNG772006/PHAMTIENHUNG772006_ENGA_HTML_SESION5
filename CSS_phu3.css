@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+h1{
+    text-align: center;
+  }
+th{
+   color: white;
+   background-color: blue;
+}
+#heading{
+    background-color:#f4f4f4;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border-collapse: collapse;
+}
+.tr2 {
+    background-color: white;
+}

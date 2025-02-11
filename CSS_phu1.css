@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  text-align: center;
+  background-color: rgb(5, 3, 3);
+  color: aliceblue;
+}
+p {
+  text-align: center;
+}
+.image{
+  margin-right: 100px;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}

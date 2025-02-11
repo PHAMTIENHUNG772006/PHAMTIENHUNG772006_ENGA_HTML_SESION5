@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+h1{
+    text-align: center;
+  }
+th{
+   color: white;
+   background-color: blue;
+}
+#heading{
+    background-color:#f4f4f4;
+}
+table{
+    margin-right: auto;
+    margin-left: auto;
+    border-collapse: collapse;
+}
+.tr2 {
+    background-color: white;
+}
+.tr4 {
+    background-color: white;
+}
+.number1{
+    text-align: center;
+}
+.number2{
+    text-align: center;
+}
+.number3{
+    text-align: center;
+}
+.number4{
+    text-align: center;
+}
+.number5{
+    text-align: center;
+}
+#view{
+    background-color: yellow;
+}
+#update{
+    background-color: green;
+}
+#Delete{
+    background-color: pink;
+}
+#center{
+    text-align: center;
+}
