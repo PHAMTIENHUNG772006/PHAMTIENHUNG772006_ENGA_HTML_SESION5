@@ -1,11 +1,50 @@
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
-
 #code-block{
     border-width: 1px;
     background-color:#f8f9fa;
     padding: 20px;
+    margin: auto;
+    display: inline-block;
+    width: fit-content;
 }
+
+.input-group {
+    display: flex;
+    border: 1px solid #e0baba;
+    border-radius: 6px;
+    width: fit-content;
+    overflow: hidden; 
+}
+.input-group span {
+    background: #dadee3;
+    padding: 8px;
+    width: 40px;
+}
+.input{
+    background-color: #f3e7e7;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+}
+#line {
+    border-bottom: dashed  #8c8c8c;
+    margin-bottom: 10px;
+   
+ }
+ #submit{
+    background-color: blue;
+    color: white;
+    text-align: center;
+ }
+ button{
+    width: 600px;
+ }
+ body{
+    margin: 0 auto;
+    width: 500px;
+ }
